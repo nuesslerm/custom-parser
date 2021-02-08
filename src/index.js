@@ -1,0 +1,2 @@
+const string =
+  '{supplier: {id: "a3b5ed0d-f1fb-49fc-b2ce-863fb1647b4d", name: "SupplierEntity Update", integration: [{sms: {type: sms, phone: "+sms"}}, {email: {type: email, emailAddress: "markus123@choco.com", xlsx: false, pdf: true}}, {fax: {type: fax, phone: "+fax"}}, {whatsApp: {type: sms, phone: "+whatsApp"}}], locale: "es-ES", cutOffTime: "3", deliveryCosts: "4", minOrderAmount: "5", allowCustomProducts: true, customerNumberMandatory: false, phone: "+phone"}}';
